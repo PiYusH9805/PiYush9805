@@ -126,7 +126,6 @@ and web development experiments.
 
 ## 🧭 My Build Journey
 
-'''text
 C++ / DSA
     ↓
 Web Development
